@@ -34,4 +34,5 @@ Make sure `pytest` is installed (as specified in `requirements.txt`) and then ru
 ### Build and run
 
 > ```$ python setup.py install```
+andThen
 > ```$ archetype-py```
