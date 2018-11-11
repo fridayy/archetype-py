@@ -1,6 +1,7 @@
 # archetype-py
 
-_**archetype-py**_ showcases a basic Python 3.7 project setup.
+_**archetype-py**_ showcases a basic Python 3.7 project setup and some basic programming
+concepts such as contractual design through ABCs, enums, decorators etc.
 
 ### Development setup
 
